@@ -1,0 +1,11 @@
+{
+  "prisma": {
+    "seed": "node prisma/seed.js"
+  },
+  "dependencies": {
+    "expres": "^0.0.5"
+  },
+  "scripts": {
+    "dev": " nodemon server.js"
+  }
+}
